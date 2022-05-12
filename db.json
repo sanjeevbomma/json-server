@@ -41,6 +41,34 @@
                 "country": "France",
                 "text": "23 Rue du Grenier Saint-Lazare\n75003 Paris\nFrance"
             }
+        },
+        {
+            "id": 4,
+            "user": "User_4",
+            "userName": "User 4",
+            "email":"user4@email.com",
+            "address": {
+                "street": "24 Rue du Grenier Saint-Lazare",
+                "postalCode": "75004",
+                "city": "Paris",
+                "countryCode": "FRA",
+                "country": "France",
+                "text": "24 Rue du Grenier Saint-Lazare\n75004 Paris\nFrance"
+            }
+        },
+        {
+            "id": 5,
+            "user": "User_5",
+            "userName": "User 5",
+            "email":"user5@email.com",
+            "address": {
+                "street": "25 Rue du Grenier Saint-Lazare",
+                "postalCode": "75005",
+                "city": "Paris",
+                "countryCode": "FRA",
+                "country": "France",
+                "text": "25 Rue du Grenier Saint-Lazare\n75005 Paris\nFrance"
+            }
         }
     ],
     "posts": [
