@@ -1,46 +1,31 @@
 {
-    "users":[
-    {
-        "id": "4EB5B571575A6B057F000101@example.com",
-        "email": "john@example.com",
-        "status": "active",
-        "groups": [
-            "Marketing Cloud 1 - Default Access",
-            "Marketing Cloud 1 - All Report Access",
-            "Marketing Cloud 1 - EDITOR",
-            "Marketing Cloud 1 - Default Access"
-        ],
-        "username": "john@example.com",
-        "domain": "example.com",
-        "firstName": "John",
-        "lastName": "Doe",
-        "countryCode": "US",
-        "userType": "enterpriseID"
-    },
-    {
-        "id": "6237573D58A4C1B90A494038@umsdkneworg1-t2example.com",
-        "email": "jane@example.com",
-        "status": "active",
-        "username": "jane@example.com",
-        "domain": "example.com",
-        "firstName": "Jane",
-        "lastName": "Doe",
-        "countryCode": "US",
-        "userType": "enterpriseID"
-    },
-    {
-        "id": "0A0E84765756CF537F000101@example.com",
-        "email": "bob@example.com",
-        "status": "active",
-        "groups": [
-            "Document Cloud 1"
-        ],
-        "username": "bob@example.com",
-        "domain": "example.com",
-        "firstName": "Bob",
-        "lastName": "James",
-        "countryCode": "US",
-        "userType": "enterpriseID"
+    "posts": [
+      {
+        "id": 1,
+        "title": "Post 1"
+      },
+      {
+        "id": 2,
+        "title": "Post 2"
+      },
+      {
+        "id": 3,
+        "title": "Post 3"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     }
-]
-}
+  }
