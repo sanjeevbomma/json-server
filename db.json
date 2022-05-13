@@ -4,7 +4,7 @@
             "id": 1,
             "user": "User_1",
             "userName": "User 1",
-            "email": "user1@email.com",
+            "email":"user1@email.com",
             "address": {
                 "street": "21 Rue du Grenier Saint-Lazare",
                 "postalCode": "75001",
@@ -14,43 +14,22 @@
                 "text": "21 Rue du Grenier Saint-Lazare\n75001 Paris\nFrance"
             },
             "photos": [
-                {
-                    "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/zh7GEuORbUw/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/PpOHJezOalU/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/I1ASdgphUH4/800x599",
-                    "width": 4,
-                    "height": 3
-                }
-            ]
+                { "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599"},
+                { "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799"},
+                { "src": "https://source.unsplash.com/qDkso9nvCg0/600x799"},
+                { "src": "https://source.unsplash.com/iecJiKe_RNg/600x799"},
+                { "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799"},
+                { "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599"},
+                { "src": "https://source.unsplash.com/zh7GEuORbUw/600x799"},
+                { "src": "https://source.unsplash.com/PpOHJezOalU/800x599"},
+                { "src": "https://source.unsplash.com/I1ASdgphUH4/800x599"}
+              ]
         },
         {
             "id": 2,
             "user": "User_2",
             "userName": "User 2",
-            "email": "user2@email.com",
+            "email":"user2@email.com",
             "address": {
                 "street": "22 Rue du Grenier Saint-Lazare",
                 "postalCode": "75002",
@@ -60,43 +39,22 @@
                 "text": "22 Rue du Grenier Saint-Lazare\n75002 Paris\nFrance"
             },
             "photos": [
-                {
-                    "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/zh7GEuORbUw/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/PpOHJezOalU/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/I1ASdgphUH4/800x599",
-                    "width": 4,
-                    "height": 3
-                }
-            ]
+                { "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599"},
+                { "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799"},
+                { "src": "https://source.unsplash.com/qDkso9nvCg0/600x799"},
+                { "src": "https://source.unsplash.com/iecJiKe_RNg/600x799"},
+                { "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799"},
+                { "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599"},
+                { "src": "https://source.unsplash.com/zh7GEuORbUw/600x799"},
+                { "src": "https://source.unsplash.com/PpOHJezOalU/800x599"},
+                { "src": "https://source.unsplash.com/I1ASdgphUH4/800x599"}
+              ]
         },
         {
             "id": 3,
             "user": "User_3",
             "userName": "User 3",
-            "email": "user3@email.com",
+            "email":"user3@email.com",
             "address": {
                 "street": "23 Rue du Grenier Saint-Lazare",
                 "postalCode": "75003",
@@ -106,23 +64,22 @@
                 "text": "23 Rue du Grenier Saint-Lazare\n75003 Paris\nFrance"
             },
             "photos": [
-                {
-                    "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
-                    "width": 4,
-                    "height": 3
-                }
-            ]
+                { "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599"},
+                { "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799"},
+                { "src": "https://source.unsplash.com/qDkso9nvCg0/600x799"},
+                { "src": "https://source.unsplash.com/iecJiKe_RNg/600x799"},
+                { "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799"},
+                { "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599"},
+                { "src": "https://source.unsplash.com/zh7GEuORbUw/600x799"},
+                { "src": "https://source.unsplash.com/PpOHJezOalU/800x599"},
+                { "src": "https://source.unsplash.com/I1ASdgphUH4/800x599"}
+              ]
         },
         {
             "id": 4,
             "user": "User_4",
             "userName": "User 4",
-            "email": "user4@email.com",
+            "email":"user4@email.com",
             "address": {
                 "street": "24 Rue du Grenier Saint-Lazare",
                 "postalCode": "75004",
@@ -132,43 +89,22 @@
                 "text": "24 Rue du Grenier Saint-Lazare\n75004 Paris\nFrance"
             },
             "photos": [
-                {
-                    "src": "https://source.unsplash.com/qDkso9nvCg0/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/iecJiKe_RNg/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/zh7GEuORbUw/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/PpOHJezOalU/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/I1ASdgphUH4/800x599",
-                    "width": 4,
-                    "height": 3
-                }
-            ]
+                { "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599"},
+                { "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799"},
+                { "src": "https://source.unsplash.com/qDkso9nvCg0/600x799"},
+                { "src": "https://source.unsplash.com/iecJiKe_RNg/600x799"},
+                { "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799"},
+                { "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599"},
+                { "src": "https://source.unsplash.com/zh7GEuORbUw/600x799"},
+                { "src": "https://source.unsplash.com/PpOHJezOalU/800x599"},
+                { "src": "https://source.unsplash.com/I1ASdgphUH4/800x599"}
+              ]
         },
         {
             "id": 5,
             "user": "User_5",
             "userName": "User 5",
-            "email": "user5@email.com",
+            "email":"user5@email.com",
             "address": {
                 "street": "25 Rue du Grenier Saint-Lazare",
                 "postalCode": "75005",
@@ -178,37 +114,16 @@
                 "text": "25 Rue du Grenier Saint-Lazare\n75005 Paris\nFrance"
             },
             "photos": [
-                {
-                    "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/zh7GEuORbUw/600x799",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/PpOHJezOalU/800x599",
-                    "width": 4,
-                    "height": 3
-                },
-                {
-                    "src": "https://source.unsplash.com/I1ASdgphUH4/800x599",
-                    "width": 4,
-                    "height": 3
-                }
-            ]
+                { "src": "https://source.unsplash.com/2ShvY8Lf6l0/800x599"},
+                { "src": "https://source.unsplash.com/Dm-qxdynoEc/800x799"},
+                { "src": "https://source.unsplash.com/qDkso9nvCg0/600x799"},
+                { "src": "https://source.unsplash.com/iecJiKe_RNg/600x799"},
+                { "src": "https://source.unsplash.com/epcsn8Ed8kY/600x799"},
+                { "src": "https://source.unsplash.com/NQSWvyVRIJk/800x599"},
+                { "src": "https://source.unsplash.com/zh7GEuORbUw/600x799"},
+                { "src": "https://source.unsplash.com/PpOHJezOalU/800x599"},
+                { "src": "https://source.unsplash.com/I1ASdgphUH4/800x599"}
+              ]
         }
     ]
 }
